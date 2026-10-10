@@ -1,0 +1,11 @@
+package guided.hargapulsa;
+public class hargaPulsa {
+    public void info() {
+        System.out.println("Harga Pulsa");
+        System.out.println("Rp. 5000");
+        System.err.println("Rp. 10000");
+        System.out.println("Rp. 20000");
+        System.out.println("Rp. 50000");
+        System.out.println("Rp. 100000");
+    }
+}
